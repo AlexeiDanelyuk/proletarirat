@@ -1,0 +1,1 @@
+import e from "../enums/EnemyType.js"; import t from "./SuitPerson.js"; export default class r { static createInstance(r, s, n, o) { if (r === e.SuitPerson) return new t(s, n, o) } };

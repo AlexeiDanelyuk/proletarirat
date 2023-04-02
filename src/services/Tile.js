@@ -1,0 +1,1 @@
+export default class t { static SIZE = 32; static GRASS = 6; constructor(t, s) { this.sprites = s, this.id = t } render(s, i) { this.sprites[this.id].render(s * t.SIZE, i * t.SIZE) } };

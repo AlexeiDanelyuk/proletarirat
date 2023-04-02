@@ -1,0 +1,183 @@
+{
+	"images": [
+		{
+			"name": "player",
+			"path": "../assets/images/rat-bat-spritesheetv2.png",
+			"width": 320,
+			"height": 320
+		},
+		{
+			"name": "player-right",
+			"path": "../assets/images/rat-right-spritesv2.png",
+			"width": 320,
+			"height": 320
+		},
+		{
+			"name": "tiles",
+			"path": "../assets/images/atlas_32x.png",
+			"width": 1536,
+			"height": 512
+		},
+		{
+			"name": "suit-person",
+			"path": "../assets/images/manager_walksheetv3.png",
+			"width": 128,
+			"height": 256
+		},
+		{
+			"name": "background",
+			"path": "../assets/images/paris.png",
+			"width": 512,
+			"height": 384
+		}, 
+		{
+			"name": "player-bullet",
+			"path": "../assets/images/orb_v3.png",
+			"width": 48,
+			"height": 48
+		},
+		{
+			"name": "spit",
+			"path": "../assets/images/spit4.png",
+			"width": 8,
+			"height": 8
+		},
+		{
+			"name": "table",
+			"path": "../assets/images/table.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "food",
+			"path": "../assets/images/Foodv1.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "map",
+			"path": "../assets/images/restaurant.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "end-screen",
+			"path": "../assets/images/sky-night.png",
+			"width": 480,
+			"height": 352
+		}
+	],
+	"fonts": [
+		{
+			"name": "Copperplate",
+			"path": "../assets/fonts/CopperplateGothicBold.ttf"
+		},
+		{
+			"name": "Anarchaos",
+			"path": "../assets/fonts/Anarchaos-ABp2.otf"
+		},
+		{
+			"name": "Dribble",
+			"path": "../assets/fonts/Dribble-Je2B.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "100ratdash",
+			"path": "../assets/sounds/100ratdash.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "castofcooks",
+			"path": "../assets/sounds/castofcooks1.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "grannygetyourgun",
+			"path": "../assets/sounds/grannygetyourgun.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "isitsoupyet",
+			"path": "../assets/sounds/isitsoupyet.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "lefestin1",
+			"path": "../assets/sounds/lefestin1.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "soupedup",
+			"path": "../assets/sounds/soupedup.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "stilljustaratinacage",
+			"path": "../assets/sounds/stilljustaratinacage.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "thepaperchase",
+			"path": "../assets/sounds/thepaperchase.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "bonk",
+			"path": "../assets/sounds/bonk.mp3",
+			"size": 10,
+			"volume": 0.5
+		},
+		{
+			"name": "confirm-selection",
+			"path": "../assets/sounds/confirm-selection.wav",
+			"size": 3,
+			"volume": 0.5
+		},
+		{
+			"name": "crunch",
+			"path": "../assets/sounds/crunch.wav",
+			"size": 5,
+			"volume": 0.5
+		},
+		{
+			"name": "enemy-dying",
+			"path": "../assets/sounds/enemy-dying.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "enemy-hurt",
+			"path": "../assets/sounds/enemy-hurt.wav",
+			"size": 10,
+			"volume": 0.2
+		},
+		{
+			"name": "level-complete",
+			"path": "../assets/sounds/level-complete.mp3",
+			"size": 3,
+			"volume": 0.2
+		},
+		{
+			"name": "selection-changed",
+			"path": "../assets/sounds/selection-changed.ogg",
+			"size": 20,
+			"volume": 0.5
+		},
+		{
+			"name": "vibe-shot",
+			"path": "../assets/sounds/vibe-shot.wav",
+			"size": 15,
+			"volume": 0.08
+		}
+
+	]
+}
